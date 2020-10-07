@@ -1,0 +1,85 @@
+Process has received a shared memory of two integers...
+Process has attached the shared memory...
+Orig Bank Account = 0
+Poor Student needs $49
+Poor Student: Not Enough Cash ($0)
+Poor Student needs $22
+Poor Student: Withdraws $22 / Balance = $68
+Poor Student needs $28
+Poor Student: Withdraws $28 / Balance = $114
+Poor Student needs $2
+Poor Student: Withdraws $2 / Balance = $112
+Poor Student needs $7
+Poor Student: Withdraws $7 / Balance = $105
+Poor Student needs $11
+Poor Student: Withdraws $11 / Balance = $94
+Poor Student needs $30
+Poor Student: Withdraws $30 / Balance = $64
+Poor Student needs $41
+Poor Student: Withdraws $41 / Balance = $23
+Poor Student needs $32
+Poor Student: Not Enough Cash ($23)
+Poor Student needs $46
+Poor Student: Not Enough Cash ($23)
+Poor Student needs $33
+Poor Student: Withdraws $33 / Balance = $54
+Poor Student needs $46
+Poor Student: Withdraws $46 / Balance = $8
+Poor Student needs $1
+Poor Student: Withdraws $1 / Balance = $7
+Poor Student needs $14
+Poor Student: Withdraws $14 / Balance = $57
+Poor Student needs $28
+Poor Student: Withdraws $28 / Balance = $29
+Poor Student needs $11
+Poor Student: Withdraws $11 / Balance = $18
+Poor Student needs $5
+Poor Student: Withdraws $5 / Balance = $79
+Poor Student needs $4
+Poor Student: Withdraws $4 / Balance = $159
+Poor Student needs $39
+Poor Student: Withdraws $39 / Balance = $120
+Poor Student needs $17
+Poor Student: Withdraws $17 / Balance = $103
+Poor Student needs $3
+Poor Student: Withdraws $3 / Balance = $100
+Poor Student needs $7
+Poor Student: Withdraws $7 / Balance = $93
+Poor Student needs $38
+Poor Student: Withdraws $38 / Balance = $55
+Poor Student needs $1
+Poor Student: Withdraws $1 / Balance = $54
+Poor Student needs $11
+Poor Student: Withdraws $11 / Balance = $59
+Process has received a shared memory of two integers...
+Process has attached the shared memory...
+Orig Bank Account = 0
+Dear old Dad: Deposits $0 / Balance = $0
+Dear old Dad: Deposits $90 / Balance = $90
+Dear old Dad: Deposits $74 / Balance = $142
+Dear old Dad: Thinks Student has enough Cash ($114)
+Dear old Dad: Thinks Student has enough Cash ($112)
+Dear old Dad: Thinks Student has enough Cash ($105)
+Dear old Dad: Doesn't have any money to give
+Dear old Dad: Doesn't have any money to give
+Dear old Dad: Doesn't have any money to give
+Dear old Dad: Doesn't have any money to give
+Dear old Dad: Deposits $64 / Balance = $87
+Dear old Dad: Doesn't have any money to give
+Dear old Dad: Doesn't have any money to give
+Dear old Dad: Deposits $64 / Balance = $71
+Dear old Dad: Doesn't have any money to give
+Dear old Dad: Doesn't have any money to give
+Dear old Dad: Deposits $66 / Balance = $84
+Dear old Dad: Deposits $84 / Balance = $163
+Dear old Dad: Thinks Student has enough Cash ($159)
+Dear old Dad: Thinks Student has enough Cash ($120)
+Dear old Dad: Thinks Student has enough Cash ($103)
+Dear old Dad: Thinks Student has enough Cash ($100)
+Dear old Dad: Doesn't have any money to give
+Dear old Dad: Doesn't have any money to give
+Dear old Dad: Deposits $16 / Balance = $70
+Process has detected the completion of its child...
+Process has detached its shared memory...
+Process has removed its shared memory...
+Process exits...
